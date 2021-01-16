@@ -1,0 +1,9 @@
+a = "hello"
+rev_str = a[:: -1]
+print(rev_str)
+
+(or)
+
+n = ['a', 'b', 'c', 'd']
+n.reverse()
+print(n)
