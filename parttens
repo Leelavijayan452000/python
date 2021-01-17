@@ -1,0 +1,55 @@
+num = int(input('Enter the.no.of rows:'))                                                            output:
+for i in range(num):                                                                                              Enter the.no.of rows:5
+    print("* " *num)                                                                                                                 
+                                                                                                                  * * * * * 
+                                                                                                                  * * * * * 
+                                                                                                                  * * * * * 
+                                                                                                                  * * * * *  
+                                                                                                                  * * * * * 
+                                                                                                                  
+
+num = int(input('Enter the no.of rows:'))                                                                         Enter the no.of rows:5
+for i in range(1, num + 1):
+    print("* "*i)                                                                                                 * 
+                                                                                                                  * * 
+                                                                                                                  * * * 
+                                                                                                                  * * * * 
+                                                                                                                  * * * * * 
+                                                                                                                  
+                                                                                                                  
+ num = int(input('Enter the no.of rows:'))
+for i in range(1, num + 1):
+    print(" " *(num-i)+ "* "*i)                                                                                      Enter the no.of rows:5
+                                                                                                                        
+                                                                                                                                          * 
+                                                                                                                                        * * 
+                                                                                                                                      * * * 
+                                                                                                                                    * * * * 
+                                                                                                                                  * * * * * 
+
+
+
+num = int(input("enter the no.of rows:"))                                                                             enter the no.of rows:5
+for i in range(num, 0, -1):                                                                                                        
+    print("  "*(num-i)+"* "*i)                                                                                                     * * * * *                                                                                                  
+                                                                                                                                     * * * *
+                                                                                                                                       * * * 
+                                                                                                                                         * * 
+                                                                                                                                           * 
+                                                                                                                                         
+                                                                                                                                           
+num = int(input("Enter the no.of rows:"))                                                                           Enter the no.of rows:5
+for i in range(1, num + 1):
+    print("   "*(num-i)+"*    "*i)                                                                                  
+                                                                                                                                *    
+                                                                                                                             *    *    
+                                                                                                                          *    *    *    
+                                                                                                                        *    *    *    *    
+                                                                                                                     *    *    *    *    *                                               
+
+                                                                                                                           
+                                                                                                                          
+                                                                                                                          
+                                                                                                                         
+                                                                                                                  
+                                                                                                                  
